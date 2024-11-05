@@ -79,7 +79,7 @@ timeout 2 /NOBREAK > nul
 cls
 git add .
 git commit -m "%updatereason%"
-git push -u origin main
+git push -f -u origin main
 echo --------------------------------------------------------------------------------------
 echo finished.
 echo press any key to exit...
