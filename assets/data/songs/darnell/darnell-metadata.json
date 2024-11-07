@@ -1,10 +1,15 @@
 {
-  "version": "2.2.4",
+  "version": "2.2.2",
   "songName": "Darnell",
   "artist": "Kawai Sprite",
-  "charter": "fabs",
+  "divisions": 96,
+  "looped": false,
+  "offsets": { "instrumental": 0, "altInstrumentals": {}, "vocals": {} },
   "playData": {
-    "songVariations": ["bf"],
+    "album": "volume3",
+    "previewStart": 0,
+    "previewEnd": 15000,
+    "songVariations": [],
     "difficulties": ["easy", "normal", "hard"],
     "characters": {
       "album": "volume3",
@@ -12,14 +17,11 @@
       "girlfriend": "nene",
       "opponent": "darnell",
       "instrumental": "",
-      "altInstrumentals": ["bf"]
+      "altInstrumentals": []
     },
     "stage": "phillyStreets",
     "noteStyle": "funkin",
-    "ratings": { "easy": 2, "normal": 3, "hard": 4 },
-    "album": "volume3",
-    "previewStart": 0,
-    "previewEnd": 15000
+    "ratings": { "easy": 3, "normal": 4, "hard": 5 }
   },
   "generatedBy": "Chart Editor Import (FNF Legacy)",
   "timeFormat": "ms",
