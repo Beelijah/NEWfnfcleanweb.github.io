@@ -8,14 +8,14 @@
     "pico-christmas",
     "pico-dark"
   ],
-  "showUnownedChars": false,
+  "showUnownedChars": true,
   "unlocked": true,
   "freeplayStyle": "pico",
   "freeplayDJ": {
     "assetPath": "freeplay/freeplay-pico",
     "text1": "PICO",
-    "text2": "GOD DAMN HE DOWN ON THE NUT",
-    "text3": "ZEBOIM DAMN IMA NUT",
+    "text2": "HE CRAZY",
+    "text3": "POTATO CHIPS",
     "fistPump": {
       "introStartFrame": 0,
       "introEndFrame": 4,
