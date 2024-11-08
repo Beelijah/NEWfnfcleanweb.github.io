@@ -2,14 +2,14 @@
   "version": "2.2.4",
   "timeFormat": "ms",
   "artist": "Kawai Sprite",
-  "charter": "ninjamuffin99 + MtH",
+  "charter": "UNKNOWN",
   "playData": {
-    "songVariations": ["erect"],
-    "stage": "mallXmas",
+    "songVariations": [],
+    "stage": "mainStage",
     "characters": {
-      "player": "bf-christmas",
-      "girlfriend": "gf-christmas",
-      "opponent": "parents-christmas"
+      "player": "bf",
+      "girlfriend": "gf",
+      "opponent": "tankman"
     },
     "difficulties": ["easy", "normal", "hard"],
     "noteStyle": "funkin",
@@ -18,7 +18,7 @@
     "previewStart": 0,
     "previewEnd": 15000
   },
-  "songName": "Cocoa",
+  "songName": "Ugh (Nightmare)",
   "timeChanges": [{ "d": 4, "n": 4, "t": -1, "bt": [4, 4, 4, 4], "bpm": 100 }],
   "generatedBy": "Chart Editor Import (FNF Legacy)"
 }

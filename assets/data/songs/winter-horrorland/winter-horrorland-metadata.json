@@ -1,16 +1,16 @@
 {
   "version": "2.2.4",
-  "songName": "Winter Horrorland",
+  "songName": "Darnell (BF Mix)",
   "artist": "Bassetfilms",
   "charter": "ninjamuffin99 + MtH",
   "playData": {
     "difficulties": ["easy", "normal", "hard"],
     "characters": {
-      "player": "bf-christmas",
-      "girlfriend": "gf-christmas",
-      "opponent": "monster-christmas"
+      "player": "bf",
+      "girlfriend": "gf",
+      "opponent": "darnell"
     },
-    "stage": "mallEvil",
+    "stage": "mainStage",
     "noteStyle": "funkin",
     "ratings": { "easy": 1, "normal": 1, "hard": 2 },
     "album": "volume1",

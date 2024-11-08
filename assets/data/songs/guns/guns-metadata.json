@@ -14,7 +14,7 @@
     "songVariations": ["pico"],
     "characters": {
       "player": "bf",
-      "girlfriend": "gf-tankmen",
+      "girlfriend": "gf",
       "opponent": "tankman",
       "instrumental": "",
       "altInstrumentals": ["pico"]
@@ -26,7 +26,7 @@
     "previewStart": 0,
     "previewEnd": 15000
   },
-  "songName": "Guns",
+  "songName": "Nerf",
   "timeChanges": [{ "d": 4, "n": 4, "t": -1, "bt": [4, 4, 4, 4], "bpm": 185 }],
   "generatedBy": "Chart Editor Import (FNF Legacy)"
 }

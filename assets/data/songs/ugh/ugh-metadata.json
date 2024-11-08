@@ -12,7 +12,7 @@
     "difficulties": ["easy", "normal", "hard"],
     "characters": {
       "player": "bf",
-      "girlfriend": "gf-tankmen",
+      "girlfriend": "gf",
       "opponent": "tankman",
       "instrumental": "",
       "altInstrumentals": ["pico"]
