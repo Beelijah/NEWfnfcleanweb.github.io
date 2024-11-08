@@ -11,7 +11,7 @@
       "player": "pico-playable",
       "girlfriend": "nene",
       "opponent": "darnell",
-      "instrumental": "",
+      "instrumental": "pico",
       "altInstrumentals": ["bf"]
     },
     "stage": "phillyStreets",
