@@ -3,8 +3,6 @@ try modding each file seperately to your vanilla copy.
 
 the results screen is broken, i tried replacing the .xml file, but no luck.
 
-protect yo nuts is still in the freeplay menu, so fix that.
-
 last night you should have decided how to deal with pico's weapon, so hope you figured that out.
 THIS SHOULD BE FINAL PRIORITY!
 
